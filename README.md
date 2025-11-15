@@ -1,17 +1,4 @@
-# [Corporate UI Dashboard Laravel](https://corporate-ui-dashboard-laravel.creative-tim.com)
-
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/corporate-ui-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-corporate-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/corporate-ui-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
-
-_Frontend version_: Corporate UI Dashboard v1.0.0. More info at https://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html
-[ <img src="public/assets/img/thumbnail-free.jpg" width="100%" />](https://corporate-ui-dashboard-laravel.creative-tim.com/?ref=sudl-readme)
-
-Introducing Corporate UI Dashboard Laravel, [Creative Tim](https://creative-tim.com/)'s newest Admin Template designed specifically for professional websites. Using our template, your web app pages will look excellent on all devices and perform flawlessly for a top-notch experience and happy customers.
-
-Corporate UI Dashboard is based on Bootstrap 5 and is made of hundred of elements, designed blocks, and fully coded pages. You can easily customize your projects to match your brand identity and specific needs.
-
-Experience the power of our Admin Template and take your corporate website to the next level!
+#
 
 ## Table of Contents
 
